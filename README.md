@@ -1,4 +1,4 @@
-### ToDo with React Project.
+![Screenshot (3344)](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/aac0c731-7bf3-4429-b5c3-6f983852000b)### ToDo with React Project.
 
 Welcome to my ToDo application built using React! This project demonstrates the use of React for creating a dynamic and interactive user interface for managing tasks. Here are the key features and a detailed description of the components and functionalities included in this project.
 ![](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/ead8b497-6b0d-4abf-a19a-d085c3dd2d4e)
@@ -32,7 +32,8 @@ Welcome to my ToDo application built using React! This project demonstrates the 
 
 6. **Local Storage:**
    - Tasks and completed tasks are stored in the browser's local storage, ensuring data persistence even after the page is refreshed.
-     ![](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/a8478498-b7c8-4f61-93b0-136d15b82e4c)
+     ![](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/c2e66002-41f4-4c01-bff6-c418050154a1)
+
 
 ### Key Technologies and Components:
 
