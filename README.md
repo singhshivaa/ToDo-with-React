@@ -1,4 +1,4 @@
-![Screenshot (3344)](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/aac0c731-7bf3-4429-b5c3-6f983852000b)### ToDo with React Project.
+### ToDo with React Project.
 
 Welcome to my ToDo application built using React! This project demonstrates the use of React for creating a dynamic and interactive user interface for managing tasks. Here are the key features and a detailed description of the components and functionalities included in this project.
 ![](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/ead8b497-6b0d-4abf-a19a-d085c3dd2d4e)
