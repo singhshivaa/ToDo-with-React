@@ -1,29 +1,38 @@
-### ToDo with React Project.
+![Screenshot (3350)](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/0d19b48a-6eac-4061-8081-6c9664225635)### ToDo with React Project.
 
 Welcome to my ToDo application built using React! This project demonstrates the use of React for creating a dynamic and interactive user interface for managing tasks. Here are the key features and a detailed description of the components and functionalities included in this project.
+![](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/ead8b497-6b0d-4abf-a19a-d085c3dd2d4e)
+
 
 #### Features:
 
 1. **Adding Tasks:**
    - Users can add new tasks by entering a title and description in the input fields.
    - Upon clicking the "Add" button, the new task is added to the list and saved in the browser's local storage, ensuring persistence across sessions.
+     ![](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/15669af1-2209-4fa5-937e-bea022f5fe3e)
 
 2. **Editing Tasks:**
    - Each task has an "Edit" button that allows users to modify the task title and description.
    - An edit form appears within the task item, enabling users to update the details and save them.
+   - ![](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/7a6e15a6-72cf-4612-94fb-5a4e7bd889fa)
 
 3. **Completing Tasks:**
    - Users can mark tasks as completed by clicking the check icon.
    - Completed tasks are moved to a separate list and timestamped with the completion date and time.
+     ![](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/4ad9d69d-0dc9-4caf-a77c-c87bf9e2360c)
+
 
 4. **Deleting Tasks:**
    - Users can delete tasks from both the active and completed task lists using the delete icon.
+     ![](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/4bff7ff6-3e30-4701-aec9-b4bf9057c3c4)
 
 5. **Task View Modes:**
    - The application has two modes: viewing all tasks and viewing completed tasks. Users can switch between these modes using the provided buttons.
+     ![](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/2544aced-d22f-490d-b6a0-8db9ea68eb32)
 
 6. **Local Storage:**
    - Tasks and completed tasks are stored in the browser's local storage, ensuring data persistence even after the page is refreshed.
+     ![](https://github.com/singhshivaa/ToDo-with-react/assets/160582204/a8478498-b7c8-4f61-93b0-136d15b82e4c)
 
 ### Key Technologies and Components:
 
@@ -31,17 +40,6 @@ Welcome to my ToDo application built using React! This project demonstrates the 
 - **CSS Styling:** The app is styled using CSS to provide a visually appealing and user-friendly interface.
 - **Icons:** Uses icons from `react-icons` for interactive elements like delete, edit, and complete actions.
 - **Responsive Design:** Ensures the app is responsive and usable on different screen sizes by adjusting the layout and dimensions.
-
-### Screenshots
-
-Below are some screenshots demonstrating the different features of the application. (Please add your own screenshots at the provided links)
-
-- **Adding Tasks**: ![Add Tasks Screenshot](link_to_add_tasks_screenshot)
-- **Editing Tasks**: ![Edit Tasks Screenshot](link_to_edit_tasks_screenshot)
-- **Completing Tasks**: ![Complete Tasks Screenshot](link_to_complete_tasks_screenshot)
-- **Task View Modes**: ![View Modes Screenshot](link_to_view_modes_screenshot)
-
-Feel free to explore the features and functionalities of this ToDo application.
 
 ### How to Run the Project
 
